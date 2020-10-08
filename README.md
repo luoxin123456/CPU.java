@@ -30,3 +30,6 @@ public class PC {
 ```
 ＃#实验结果
 经过计算机计算得出
+https://github.com/luoxin123456/CPU.java/blob/main/deeafd16ad4910dc307db3469179405.png
+#＃实验感想
+通过本次实验我了解了如何使用java定义对象，和用类描述一些简单的方法，通过这次实验加深了我对java的熟练程度，在以后的学习中我将会认真地将javajava好
